@@ -22,3 +22,16 @@ END
 addresses = text.scan(EMAIL_PATTERN)
 
 puts addresses
+
+#Ex 3
+
+text.scan(EMAIL_PATTERN) do |address|
+  puts address
+end
+
+
+#Ex 4
+EMAIL_PATTERN = /(\S+)@(\S+)/i  #pattern matching
+text.scan(EMAIL_PATTERN) do |address, host|
+  puts "#{address}, #{host}"
+end
