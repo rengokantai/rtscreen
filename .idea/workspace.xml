@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7f6bba0-00a5-421e-b9e2-ab000c995421" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r48.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r49.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rtscreen.iws" />
@@ -57,16 +57,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="r36.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/r36.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="834" max-vertical-offset="1444">
-              <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="r37.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r37.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,11 +137,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="r48.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="r48.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r48.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="401">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="r49.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/r49.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14214464" vertical-offset="0" max-vertical-offset="401">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -205,6 +205,7 @@
         <option value="$PROJECT_DIR$/r44.rb" />
         <option value="$PROJECT_DIR$/r45.rb" />
         <option value="$PROJECT_DIR$/r48.rb" />
+        <option value="$PROJECT_DIR$/r49.rb" />
       </list>
     </option>
   </component>
@@ -546,14 +547,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/r33.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="969">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/r34.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="950">
@@ -947,6 +940,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="401">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r49.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14214464" vertical-offset="0" max-vertical-offset="401">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
